@@ -1,0 +1,15 @@
+{
+    "name": "rpaggi/pure-mvc",
+    "authors": [
+        {
+            "name": "Ronaldo Paggi",
+            "email": "ronaldo.paggi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {}
+}
